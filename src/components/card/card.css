@@ -1,0 +1,64 @@
+.card {
+    display: flex;
+}
+
+.tariff-container{
+    max-width: 250px;
+    height: 287px;
+    margin-top: 10px;
+    background-color: #F5F1F0;
+    border: 1px solid rgba(0, 0, 0, 0.349);
+}
+    
+h3{
+    text-align: center;
+    color: rgb(233, 244, 244);
+    font-size: 25px;
+    }
+
+span{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.price{
+    text-align: center;
+    color: rgb(233, 244, 244);
+}
+
+.background{
+    padding: 10px 5px;
+}
+
+.blue{
+    background-color: #56A5EC;
+}
+
+.green{
+    background-color: #66CDAA;
+}
+
+.red{
+    background-color: #F75D59;
+}
+
+.black{
+    background-color: #34282C;
+}
+
+p {
+    text-align: center;
+}
+
+.text{
+    padding: 10px 5px;
+    border-top: 1px solid #A9A9A9;
+    line-height: 30px;
+}
+
+.selected {
+    max-width: 270px;
+    height: 325px;
+    box-shadow: 4px 4px 15px 1px #A9A9A9;
+}
+
